@@ -1,4 +1,14 @@
 # AroundTheHouse
 The first Unit 0 assignment for the AP CS50 class hosted by EdX. An essay below 400 words on a computing device in one´s house.
 
-  P
+  Within my family household, laptops and smartphones are obviously classified as ¨computers¨, but there is a machine that
+  is technically a computer. Namely, a CD player. 
+  
+  The device is relatively small, roughly smaller than the average printer and significantly lighter. The device has a top that
+  when pressed down, opens, revealing an opening to place a CD in. It also comes with a radio antennae, a multi-input switch
+  capable of turning the machine off, switching to CD, and local radio. A dial cos ntrolthe volume, and various buttons start and
+  stop the music, or switches the current track on the CD.
+  
+  The CD player accepts data from either the current CD inserted into the device, or data from the nearest radio stations. Once
+  further data is inputted from the buttons on the CD player, the CD or radio antennae processes the data given; usually through
+  briefly spinning the CD, and begins to play audio based on the track number, CD, or radio, and at the defined volume.
